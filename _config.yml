@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            José Pedro Correia
 #tagline:          'A Jekyll theme'
 description:      ''
-#url:              https://fongandrew.github.io/hydeout
-#baseurl:          # the optional subpath of your site, e.g. "/blog"
+url:              https://josepedrocorreia.github.io/
+baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           'José Pedro Correia'
@@ -31,4 +31,5 @@ plugins:
                                 # to enable a separate blog link.
 #github:
 #  repo:             https://github.com/fongandrew/hydeout
+
 avatar:            'assets/img/photo.jpg'
