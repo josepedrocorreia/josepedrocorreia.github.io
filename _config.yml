@@ -1,0 +1,34 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            José Pedro Correia
+#tagline:          'A Jekyll theme'
+description:      ''
+#url:              https://fongandrew.github.io/hydeout
+#baseurl:          # the optional subpath of your site, e.g. "/blog"
+
+author:
+  name:           'José Pedro Correia'
+#  url:            https://twitter.com/fongandrewc
+
+#paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Custom vars
+#version:            3.4.1
+#sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
+#github:
+#  repo:             https://github.com/fongandrew/hydeout
+avatar:            'assets/img/photo.jpg'
