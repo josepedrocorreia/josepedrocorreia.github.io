@@ -13,6 +13,8 @@ In 2011, I enrolled in the [Master of Logic](http://www.illc.uva.nl/MScLogic/) a
 
 I am currently working on a PhD thesis about the connection between signaling games and the later philosophy of language of Ludwig Wittgenstein (focusing on the _Philosophical Investigations_). My broader interests include vagueness, Richard Rorty's pragmatism, and artificial intelligence.
 
+You can contact me at: zepedro.correia<span class="at-sign">gmail.com</span>
+
 # Publications
 
 You can find a list of my publications on either [ORCID](https://orcid.org/0000-0001-9594-3797), [Google Scholar](https://scholar.google.pt/citations?user=5vGYF8sAAAAJ), or [ResearchGate](https://www.researchgate.net/profile/Jose_Pedro_Correia).
