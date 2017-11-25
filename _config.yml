@@ -33,4 +33,8 @@ plugins:
 #  repo:             https://github.com/fongandrew/hydeout
 
 avatar:            'assets/img/photo.jpg'
-github_username:      josepedrocorreia
+github_username:   josepedrocorreia
+orcid_id:          0000-0001-9594-3797
+google_scholar_id: 5vGYF8sAAAAJ
+researchgate_user: Jose_Pedro_Correia
+linkedin_user:     jose-pedro-correia
