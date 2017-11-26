@@ -23,3 +23,7 @@ img.avatar {
 .at-sign::before {
     content: "\0040";    /* Unicode character for @ symbol */
 }
+
+#sidebar-nav-links {
+    font-size: 1.25rem;
+}
