@@ -7,7 +7,7 @@ title: Home
 
 My name is José Pedro Correia and I am currently a PhD student at the University of Porto, working as part of the [Mind, Language, and Action Group](https://mlag.up.pt/). My work is funded by [Fundação para a Ciência e a Tecnologia](http://www.fct.pt/) (grant number SFRH/BD/100437/2014).
 
-In my thesis, I explore the connections between signaling games and the later philosophy of language of Ludwig Wittgenstein (focusing on the _Philosophical Investigations_). My broader interests include vagueness, Richard Rorty's pragmatism, and artificial intelligence (of the connectionist kind).
+In my thesis, I explore the connections between signaling games and the later philosophy of language of Ludwig Wittgenstein (focusing on the _Philosophical Investigations_). My broader interests include vagueness, Richard Rorty's pragmatism, artificial intelligence (of the connectionist kind), and data science.
 
 The topic of my PhD thesis stems from my studies at the University of Amsterdam for the [Master of Logic](http://www.illc.uva.nl/MScLogic/) programme (2011-2013). There, I began developing an interest in better understanding meaning in natural language. Unsatisfied with formal semantics and related logic-based approaches, I became interested in signaling games as an alternative framework for conceptualizing meaning. For [my MSc thesis](http://arno.uva.nl/document/499282), I investigated the application of signaling games to the philosophical problem of vagueness.
 
