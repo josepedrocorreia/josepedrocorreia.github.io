@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 sidebar_link: true
+order: 1
 ---
 
 # Publications
