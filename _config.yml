@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            José Pedro Correia
 #tagline:          'A Jekyll theme'
-description:      ''
+description:      'Personal website of José Pedro Correia, currently a PhD student in philosophy at the University of Porto.'
 url:              https://josepedrocorreia.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
 
@@ -21,6 +21,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # Custom vars
 #version:            3.4.1
