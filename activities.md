@@ -11,8 +11,6 @@ order: 2
 
 * "Uma introdução aos jogos de sinalização." Seminários MLAG em História da Filosofia Contemporânea. University of Porto. 16 April 2018. Seminar presentation.
 
-### Upcoming
-
 * "Do we need a theory of concepts?" The 2nd Context, Cognition and Communication Conference – Contexts, Concepts, Objects. University of Warsaw. 16 June 2018. Conference presentation.
 
 # Organization
