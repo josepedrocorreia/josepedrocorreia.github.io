@@ -9,9 +9,9 @@ order: 1
 
 ## In philosophy
 
-* Franke, Michael, and José Pedro Correia. "Vagueness and Imprecise Imitation in Signalling Games." The British Journal for the Philosophy of Science, July 2017. DOI:&nbsp;[10.1093/bjps/axx002](https://doi.org/10.1093/bjps/axx002).
+* Franke, Michael, and José Pedro Correia. "[Vagueness and Imprecise Imitation in Signalling Games](/assets/pdf/FrankeCorreia_2016_Vagueness_and_imprecise_imitation_in_signalling_games.pdf)." The British Journal for the Philosophy of Science, July 2017. DOI:&nbsp;[10.1093/bjps/axx002](https://doi.org/10.1093/bjps/axx002).
 
-* Correia, José Pedro. "The Bivalent Trap Vagueness, Theories of Meaning, and Identity." Master of Logic (MoL) Thesis Series, ILLC, University of Amsterdam, 2013. URL:&nbsp;[http://arno.uva.nl/document/499282](http://arno.uva.nl/document/499282).
+* Correia, José Pedro. "[The Bivalent Trap Vagueness, Theories of Meaning, and Identity](/assets/pdf/Correia_2013_The_bivalent_trap.pdf)." Master of Logic (MoL) Thesis Series, ILLC, University of Amsterdam, 2013. URL:&nbsp;[http://www.scriptiesonline.uba.uva.nl/en/scriptie/456109](http://www.scriptiesonline.uba.uva.nl/en/scriptie/456109).
 
 
 ## In computer science
