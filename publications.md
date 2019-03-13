@@ -9,7 +9,7 @@ order: 1
 
 ## In philosophy
 
-* Correia, José Pedro, and Michael Franke. “[Towards an Ecology of Vagueness](/assets/pdf/CorreiaFranke_Towards_an_Ecology_of_Vagueness.pdf).” Vagueness and Rationality, edited by Richard Dietz, To appear.
+* Correia, José Pedro, and Michael Franke. “[Towards an Ecology of Vagueness](/assets/pdf/CorreiaFranke_Towards_an_Ecology_of_Vagueness.pdf).” Vagueness and Rationality in Language Use and Cognition, edited by Richard Dietz, To appear.
 
 * Franke, Michael, and José Pedro Correia. "[Vagueness and Imprecise Imitation in Signalling Games](/assets/pdf/FrankeCorreia_2016_Vagueness_and_imprecise_imitation_in_signalling_games.pdf)." The British Journal for the Philosophy of Science, July 2017. DOI:&nbsp;[10.1093/bjps/axx002](https://doi.org/10.1093/bjps/axx002).
 
