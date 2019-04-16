@@ -7,11 +7,11 @@ order: 2
 
 # Talks
 
-* "Explanation and analysis in the _Philosophical Investigations_." [Analysis and explication – traditional and contemporary approaches](https://sfb991.uni-duesseldorf.de/analysis2017/). Heinrich-Heine University Düsseldorf. 21 October 2017. Workshop presentation.
+* "Do we need a theory of concepts?" [The 2nd Context, Cognition and Communication Conference – Contexts, Concepts, Objects](http://ccc-conference.org/). University of Warsaw. 16 June 2018. Conference presentation.
 
 * "Uma introdução aos jogos de sinalização." Seminários MLAG em História da Filosofia Contemporânea. University of Porto. 16 April 2018. Seminar presentation.
 
-* "Do we need a theory of concepts?" [The 2nd Context, Cognition and Communication Conference – Contexts, Concepts, Objects](http://ccc-conference.org/). University of Warsaw. 16 June 2018. Conference presentation.
+* "Explanation and analysis in the _Philosophical Investigations_." [Analysis and explication – traditional and contemporary approaches](https://sfb991.uni-duesseldorf.de/analysis2017/). Heinrich-Heine University Düsseldorf. 21 October 2017. Workshop presentation.
 
 # Organization
 
