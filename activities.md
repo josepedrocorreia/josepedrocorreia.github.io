@@ -15,7 +15,7 @@ order: 2
 
 # Organization
 
-* MLAG Graduate Conference III. University of Porto. 2019. Organized with Diana Couto, João Faria e Silva, Luca Corti, Luís Veríssimo, João Alberto Pinto, and Sofia Miguens. Graduate conference. URL:&nbsp;[https://gcmlag.wordpress.com/](https://gcmlag.wordpress.com/)
+* MLAG Graduate Conference III. University of Porto. 2019. Organized with Diana Couto, João Faria e Silva, Luca Corti, João Alberto Pinto, and Sofia Miguens. Graduate conference. URL:&nbsp;[https://gcmlag.wordpress.com/](https://gcmlag.wordpress.com/)
 
 * MLAG Research Seminars 2018-2019. University of Porto. Organized with Diana Couto, João Faria e Silva, and Sofia Miguens. Seminar series.
 
