@@ -10,7 +10,8 @@ order: 1
 ## In philosophy
 
 * Correia, José Pedro, and Radek Ocelák. "[Towards more realistic modeling of linguistic color
-categorization](assets/pdf/CorreiaOcelak_Towards_more_realistic.pdf)." Open Philosophy, To appear.
+categorization](assets/pdf/CorreiaOcelak_Towards_more_realistic.pdf)." Open Philosophy 2 (1): 160–189, 2019. DOI:&nbsp;[10.1515/opphil-2019-0013](https://doi.org/10.1515/opphil-2019-0013).
+
 
 * Correia, José Pedro. "[Analysis and explanation in the _Philosophical Investigations_](assets/pdf/Correia_Analysis_and_explanation.pdf)." Logical Analysis and History of Philosophy, To appear.
 
