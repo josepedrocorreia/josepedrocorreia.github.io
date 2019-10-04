@@ -9,17 +9,17 @@ order: 1
 
 ## In philosophy
 
-* Correia, José Pedro, and Radek Ocelák. "[Towards more realistic modeling of linguistic color
-categorization](assets/pdf/CorreiaOcelak_Towards_more_realistic.pdf)." Open Philosophy 2 (1): 160–189, 2019. DOI:&nbsp;[10.1515/opphil-2019-0013](https://doi.org/10.1515/opphil-2019-0013).
+* Correia, José Pedro, and Radek Ocelák. "[Towards More Realistic Modeling of Linguistic Color
+Categorization](assets/pdf/CorreiaOcelak_Towards_more_realistic.pdf)." Open Philosophy 2 (1): 160–189, 2019. DOI:&nbsp;[10.1515/opphil-2019-0013](https://doi.org/10.1515/opphil-2019-0013).
 
 
-* Correia, José Pedro. "[Analysis and explanation in the _Philosophical Investigations_](assets/pdf/Correia_Analysis_and_explanation.pdf)." Logical Analysis and History of Philosophy, To appear.
+* Correia, José Pedro. "[Analysis and Explanation in the _Philosophical Investigations_](assets/pdf/Correia_Analysis_and_explanation.pdf)." Logical Analysis and History of Philosophy, To appear.
 
 * Correia, José Pedro, and Michael Franke. “[Towards an Ecology of Vagueness](/assets/pdf/CorreiaFranke_Towards_an_Ecology_of_Vagueness.pdf).” In _Vagueness and Rationality in Language Use and Cognition_, edited by Richard Dietz, 87–113. Language, Cognition, and Mind. Cham: Springer. 2019. DOI:&nbsp;[10.1007/978-3-030-15931-3_6](https://doi.org/10.1007/978-3-030-15931-3_6).
 
 * Franke, Michael, and José Pedro Correia. "[Vagueness and Imprecise Imitation in Signalling Games](/assets/pdf/FrankeCorreia_2016_Vagueness_and_imprecise_imitation_in_signalling_games.pdf)." The British Journal for the Philosophy of Science 69 (4): 1037–67, 2018. DOI:&nbsp;[10.1093/bjps/axx002](https://doi.org/10.1093/bjps/axx002).
 
-* Correia, José Pedro. "[The Bivalent Trap Vagueness, Theories of Meaning, and Identity](/assets/pdf/Correia_2013_The_bivalent_trap.pdf)." Master of Logic (MoL) Thesis Series, ILLC, University of Amsterdam, 2013. URL:&nbsp;[http://www.scriptiesonline.uba.uva.nl/en/scriptie/456109](http://www.scriptiesonline.uba.uva.nl/en/scriptie/456109).
+* Correia, José Pedro. "[The Bivalent Trap: Vagueness, Theories of Meaning, and Identity](/assets/pdf/Correia_2013_The_bivalent_trap.pdf)." Master of Logic (MoL) Thesis Series, ILLC, University of Amsterdam, 2013. URL:&nbsp;[http://www.scriptiesonline.uba.uva.nl/en/scriptie/456109](http://www.scriptiesonline.uba.uva.nl/en/scriptie/456109).
 
 
 ## In computer science
