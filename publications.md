@@ -12,8 +12,7 @@ order: 1
 * Correia, José Pedro, and Radek Ocelák. "[Towards More Realistic Modeling of Linguistic Color
 Categorization](assets/pdf/CorreiaOcelak_Towards_more_realistic.pdf)." Open Philosophy 2 (1): 160–189, 2019. DOI:&nbsp;[10.1515/opphil-2019-0013](https://doi.org/10.1515/opphil-2019-0013).
 
-
-* Correia, José Pedro. "[Analysis and Explanation in the _Philosophical Investigations_](assets/pdf/Correia_Analysis_and_explanation.pdf)." Logical Analysis and History of Philosophy, To appear.
+* Correia, José Pedro. "[Analysis and Explanation in the _Philosophical Investigations_](assets/pdf/Correia_Analysis_and_explanation.pdf)." History of Philosophy and Logical Analysis 22 (1): 53–71. 2019. DOI&nbsp;[10.30965/26664275-02201004](https://doi.org/10.30965/26664275-02201004).
 
 * Correia, José Pedro, and Michael Franke. “[Towards an Ecology of Vagueness](/assets/pdf/CorreiaFranke_Towards_an_Ecology_of_Vagueness.pdf).” In _Vagueness and Rationality in Language Use and Cognition_, edited by Richard Dietz, 87–113. Language, Cognition, and Mind. Cham: Springer. 2019. DOI:&nbsp;[10.1007/978-3-030-15931-3_6](https://doi.org/10.1007/978-3-030-15931-3_6).
 
