@@ -9,6 +9,8 @@ order: 1
 
 ## In philosophy
 
+* Correia, José Pedro. "[Meaningful play: Signaling games in light of later Wittgenstein](https://hdl.handle.net/10216/126715)". PhD thesis. University of Porto, 2020.
+
 * Correia, José Pedro, and Radek Ocelák. "[Towards More Realistic Modeling of Linguistic Color
 Categorization](assets/pdf/CorreiaOcelak_Towards_more_realistic.pdf)." Open Philosophy 2 (1): 160–189, 2019. DOI:&nbsp;[10.1515/opphil-2019-0013](https://doi.org/10.1515/opphil-2019-0013).
 

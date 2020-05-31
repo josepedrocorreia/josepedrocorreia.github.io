@@ -5,13 +5,16 @@ title: Home
 
 # About me
 
-My name is José Pedro Correia and I am currently a PhD student at the University of Porto, working as part of the [Mind, Language, and Action Group](https://mlag.up.pt/). My work is funded by [Fundação para a Ciência e a Tecnologia](http://www.fct.pt/) (grant number SFRH/BD/100437/2014).
+My name is José Pedro Correia and I am currently a data scientist at [Centro de Medicina Digital P5](https://www.p5.pt/). 
 
-In my thesis, I explore the connections between signaling games and the later philosophy of language of Ludwig Wittgenstein (focusing on the _Philosophical Investigations_). My broader interests include vagueness, Richard Rorty's pragmatism, artificial intelligence (of the connectionist kind), and data science.
+I studied Software Engineering at the University of Minho (2002-2007) in Braga, my hometown. That included an internship on video processing at [Philips Research](https://www.philips.com/a-w/research/home.html) in Eindhoven. After that, I moved to Amsterdam and worked as a researcher/data scientist at the [Software Improvement Group](https://www.sig.eu/). I also worked as a software quality assurance engineer, first at [Textkernel](https://www.textkernel.com/) and then, after moving back to Portugal, at [Blip](https://blip.pt/).
 
-The topic of my PhD thesis stems from my studies at the University of Amsterdam for the [Master of Logic](http://www.illc.uva.nl/MScLogic/) programme (2011-2013). There, I began developing an interest in better understanding meaning in natural language. Unsatisfied with formal semantics and related logic-based approaches, I became interested in signaling games as an alternative framework for conceptualizing meaning. For [my MSc thesis](http://arno.uva.nl/document/499282), I investigated the application of signaling games to the philosophical problem of vagueness.
+During my period in the Netherlands, I completed the [Master of Logic](http://www.illc.uva.nl/MScLogic/) programme (2011-2013) at the University of Amsterdam. There, I began developing an interest in better understanding meaning in natural language. Unsatisfied with formal semantics and related logic-based approaches, I became interested in signaling games as an alternative framework for conceptualizing meaning. For [my MSc thesis](http://arno.uva.nl/document/499282), I investigated the application of signaling games to the philosophical problem of vagueness.
 
-In a past life, I studied Software Engineering at the University of Minho (2002-2007) in Braga, my hometown. That included an internship on video processing at [Philips Research](https://www.philips.com/a-w/research/home.html) in Eindhoven. After that, I moved to Amsterdam and worked as a researcher at the [Software Improvement Group](https://www.sig.eu/). I also worked as a software quality assurance engineer, first at [Textkernel](https://www.textkernel.com/) and then, after moving back to Portugal, at [Blip](https://blip.pt/).
+This led to a PhD programme (2015-2019) at the University of Porto, working as part of the [Mind, Language, and Action Group](https://mlag.up.pt/). My work was funded by [Fundação para a Ciência e a Tecnologia](http://www.fct.pt/) (grant number SFRH/BD/100437/2014). In [my thesis](https://hdl.handle.net/10216/126715), I explore the connections between signaling games and the later philosophy of language of Ludwig Wittgenstein (focusing on the _Philosophical Investigations_). My broader interests in philosophy include vagueness, Richard Rorty's pragmatism, and artificial intelligence (of the connectionist kind).
+
+After finishing my PhD, I decided to return to the IT world, having worked as a data scientist at [Uphold](https://uphold.com/), before moving to my current position.
+
 
 You can contact me at: zepedro.correia<span class="at-sign">gmail.com</span>
 
