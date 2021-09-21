@@ -5,7 +5,7 @@ title: Home
 
 # About me
 
-My name is José Pedro Correia and I am currently a data scientist at [Centro de Medicina Digital P5](https://www.p5.pt/). 
+My name is José Pedro Correia and I am currently a data scientist and the head of IT at [Centro de Medicina Digital P5](https://www.p5.pt/). 
 
 I studied Software Engineering at the University of Minho (2002-2007) in Braga, my hometown. That included an internship on video processing at [Philips Research](https://www.philips.com/a-w/research/home.html) in Eindhoven. After that, I moved to Amsterdam and worked as a researcher/data scientist at the [Software Improvement Group](https://www.sig.eu/). I also worked as a software quality assurance engineer, first at [Textkernel](https://www.textkernel.com/) and then, after moving back to Portugal, at [Blip](https://blip.pt/).
 
